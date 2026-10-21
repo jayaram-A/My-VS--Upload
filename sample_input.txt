@@ -1,0 +1,1 @@
+Research the current evidence on how generative AI tools affect software developers' productivity and code quality. Compare empirical studies and developer surveys from 2023 onward, report measured outcomes with dates and source URLs, distinguish evidence from opinion, and explain important limitations or conflicting findings.
